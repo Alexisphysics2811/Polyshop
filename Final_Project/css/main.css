@@ -61,6 +61,8 @@ img{
 
 .nav-menu-list a{
     text-decoration: none;
+    padding: 5px;
+    margin: 0px 10px;
 }
 
 .nav-header-menu{
@@ -74,4 +76,6 @@ img{
 
 .nav-header-menu a{
     text-decoration: none;
+    padding: 5px;
+    margin: 0px 10px;
 }
