@@ -44,17 +44,13 @@ img{
     border: 1px solid #8f8f9d;
     border-radius: 2rem;
     border-left: transparent;
-    height: 38px;
-    width: 38px;
-		margin: 5px;
-		padding: 5px;
+    height: 40px;
+    width: 40px;
 }
 
 .nav-search-btn:hover{
     border: 1px solid #676774;
 		border-radius: 2rem;
-		margin: 5px;
-		padding: 5px;
 }
 
 .nav-menu-list{
