@@ -10,7 +10,7 @@ img{
 }
 
 .nav-header{
-    background-color: #000000;
+    background-color: #1397d5;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -41,11 +41,9 @@ img{
 .nav-search-btn{
     background: white;
     cursor: pointer;
-    border: 1px solid #8f8f9d;
     border-radius: 2rem;
-    border-left: transparent;
     height: 40px;
-    width: 40px;
+    width: 42.25px;
 }
 
 .nav-search-btn:hover{
