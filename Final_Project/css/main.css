@@ -105,8 +105,18 @@ img{
     padding: 40px;
 }
 
-.ui-item_image-container{
+.ui-item{
     width: 240px;
+}
+
+.ui-item_image-container{
+    width: 100%;
+}
+
+.ui-item_link{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
 }
 
 .ui-item_price-block > .before-price{
