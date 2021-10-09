@@ -107,16 +107,22 @@ img{
 
 .ui-item{
     width: 240px;
+    box-shadow: 5px 5px 5px 0px #9892A3;
 }
 
 .ui-item_image-container{
     width: 100%;
+    padding-bottom: 10px;
 }
 
 .ui-item_link{
     width: 100%;
     height: 100%;
     display: inline-block;
+}
+
+.ui-item_price-block{
+    padding: 10px;
 }
 
 .ui-item_price-block > .before-price{
