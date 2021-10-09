@@ -35,7 +35,7 @@ img{
 .nav-search-input{
     height: 36px;
     width: 100%;
-		border-radius: 2rem;
+    border-radius: 2rem;
 }
 
 .nav-search-btn{
@@ -48,7 +48,7 @@ img{
 
 .nav-search-btn:hover{
     border: 1px solid #676774;
-		border-radius: 2rem;
+    border-radius: 2rem;
 }
 
 .nav-menu-list{
@@ -58,14 +58,14 @@ img{
     align-content: center;
     flex-wrap: wrap;
     padding: 5px;
-		color: #ffffff;
+    color: #ffffff;
 }
 
 .nav-menu-list a{
     text-decoration: none;
     padding: 5px;
     margin: 0px 10px;
-		color: #ffffff;
+    color: #ffffff;
 }
 
 .nav-header-menu{
