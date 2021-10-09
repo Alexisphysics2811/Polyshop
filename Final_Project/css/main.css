@@ -83,3 +83,37 @@ img{
     margin: 0px 10px;
 		color: #ffffff;
 }
+
+.row-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px 0px;
+}
+
+.section-heading{
+    display: flex;
+    align-items: center;
+}
+
+.section-heading > *{
+    padding: 0 10px;
+    margin: auto;
+}
+
+.carousel-container{
+    width: 100%;
+    padding: 40px;
+}
+
+.ui-item_image-container{
+    width: 240px;
+}
+
+.ui-item_price-block > .before-price{
+    text-decoration-line: line-through;
+    color: rgba(0, 0, 0, 0.5)
+}
+
+.ui-item_price-block > .after-price{
+    font-size: xx-large;
+}
