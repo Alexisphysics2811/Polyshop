@@ -103,11 +103,14 @@ img{
 .carousel-container{
     width: 100%;
     padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .ui-item{
     width: 240px;
     box-shadow: 5px 5px 5px 0px #9892A3;
+    margin: 5px;
 }
 
 .ui-item_image-container{
