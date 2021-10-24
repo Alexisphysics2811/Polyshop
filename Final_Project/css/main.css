@@ -172,3 +172,10 @@ img{
 		align-items: center;
 		justify-content: center;
 }
+
+
+.Form{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+}
