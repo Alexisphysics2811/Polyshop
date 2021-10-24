@@ -124,10 +124,6 @@ img{
     display: inline-block;
 }
 
-.ui-item_image{
-    height: 280px;
-}
-
 .ui-item_price-block{
     padding: 10px;
 }
@@ -182,4 +178,14 @@ img{
 		display: flex;
 		align-items: center;
 		justify-content: center;
+}
+
+.R{
+		display: flex;
+		justify-content: center;
+}
+.Parrafos{
+		display: flex;
+		justify-content: center;
+		align-items: center;
 }
