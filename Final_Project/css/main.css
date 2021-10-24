@@ -136,3 +136,39 @@ img{
 .ui-item_price-block > .after-price{
     font-size: xx-large;
 }
+
+
+.titulowho{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+}
+
+.tablawho{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+}
+
+.thead1{
+		border-radius: 2rem;
+}
+
+.tbody1{
+		border-radius: 2rem;
+}
+
+
+.formulario{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+}
+
+
+.Tituloa1{
+ 		display: flex;
+		align-items: center;
+		justify-content: center;
+}
