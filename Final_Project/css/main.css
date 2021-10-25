@@ -124,6 +124,10 @@ img{
     display: inline-block;
 }
 
+.ui-item_image{
+    height: 260px;
+}
+
 .ui-item_price-block{
     padding: 10px;
 }
