@@ -9,6 +9,10 @@ img{
     width: 100%;
 }
 
+a{
+    text-decoration: none;
+}
+
 .nav-header{
     background-color: #1397d5;
     display: flex;
@@ -62,7 +66,6 @@ img{
 }
 
 .nav-menu-list a{
-    text-decoration: none;
     padding: 5px;
     margin: 0px 10px;
     color: #ffffff;
@@ -141,6 +144,31 @@ img{
     font-size: xx-large;
 }
 
+.categories-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.category{
+    box-shadow: 5px 5px 5px 0px #9892A3;
+    margin: 5px;
+}
+
+.category-icon{
+    padding: 5px;
+}
+
+.category-icon > *{
+    font-size: 120px;
+}
+
+.category-description{
+    padding: 5px;
+}
+
+/**********DIVISION**********/
 
 .titulowho{
 		display: flex;
