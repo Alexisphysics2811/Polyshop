@@ -144,16 +144,27 @@ a{
     font-size: xx-large;
 }
 
+.categories{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .categories-container{
     display: flex;
     width: 100%;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    padding: 40px;
 }
 
 .category{
     box-shadow: 5px 5px 5px 0px #9892A3;
     margin: 5px;
+    padding: 10px;
+}
+
+.category > *{
+    color: #1397d5;
 }
 
 .category-icon{
