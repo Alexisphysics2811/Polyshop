@@ -13,6 +13,13 @@ a{
     text-decoration: none;
 }
 
+footer{
+    width: 100%;
+    height: 200px;
+    background-image: url(../multimedia/img/Backgrounds/background_blue.jpeg);
+    background-size: 100% 100%;
+}
+
 .nav-header{
     background-color: #1397d5;
     display: flex;
@@ -179,7 +186,7 @@ a{
     padding: 5px;
 }
 
-/**********DIVISION**********/
+/********************DIVISION********************/
 
 .titulowho{
 		display: flex;
