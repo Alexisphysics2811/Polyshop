@@ -249,4 +249,16 @@ footer{
 		justify-content: center;
 }
 
+/**Register********************Div******************/
+#1213{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#mail,#nombre1,#nombre2,#gerder2,#gerder{
+    border-radius: 2rem;
+}
+
+
 
