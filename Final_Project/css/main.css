@@ -9,6 +9,7 @@
     margin: 0;
     box-sizing: content-box;
     font-family: 'Ubuntu', sans-serif;
+    color:#ffffff;
 }
 
 body{
@@ -262,3 +263,18 @@ footer{
 
 
 
+.parrafowho{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    margin: 2rem;
+    padding: 8rem;
+    font-size: 2rem;
+}
+
+.Parrafos{
+    margin: 2rem;
+    padding: 6rem;
+    font-size: 2rem;
+    font-display: center;
+}
