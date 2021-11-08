@@ -190,6 +190,16 @@ a{
     padding: 5px;
 }
 
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-text{
+    
+}
+
 /********************DIVISION********************/
 
 .titulowho{
