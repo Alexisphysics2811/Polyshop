@@ -1,3 +1,9 @@
+:root{
+    --main-color: rgb(19,151,213);
+    --dark-background-color: rgb(68,72,87);
+    --light-background-color: rgb(255,255,255)
+}
+
 *{
     padding: 0;
     margin: 0;
@@ -6,7 +12,7 @@
 }
 
 body{
-    color: #444857;
+    color: var(--dark-background-color);
 }
 
 img{
@@ -18,7 +24,7 @@ a{
 }
 
 .nav-header{
-    background-color: #1397d5;
+    background-color: var(--main-color);
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -168,7 +174,7 @@ a{
 }
 
 .category > *{
-    color: #1397d5;
+    color: var(--main-color);
 }
 
 .category-icon{
