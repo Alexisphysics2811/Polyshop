@@ -5,19 +5,16 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+body{
+    color: #444857;
+}
+
 img{
     width: 100%;
 }
 
 a{
     text-decoration: none;
-}
-
-footer{
-    width: 100%;
-    height: 200px;
-    background-image: url(../multimedia/img/Backgrounds/background_blue.jpeg);
-    background-size: 100% 100%;
 }
 
 .nav-header{
@@ -234,12 +231,6 @@ footer{
 .R{
 		display: flex;
 		justify-content: center;
-}
-.Parrafos{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-
 }
 
 
