@@ -1,7 +1,7 @@
 :root{
     --main-color: rgb(19,151,213);
-    --dark-background-color: rgb(24, 26, 27);
-    --light-background-color: rgb(255,255,255)
+    --dark-background-color: rgb(68,72,87);
+    --dark-background-text: rgb(192, 192, 192);
 }
 
 *{
@@ -9,11 +9,11 @@
     margin: 0;
     box-sizing: content-box;
     font-family: 'Ubuntu', sans-serif;
-    color:#000;
+    color: var(--dark-background-text)
 }
 
 body{
-    color: var(--dark-background-color);
+    background-color: var(--dark-background-color);
 }
 
 img{
@@ -22,6 +22,7 @@ img{
 
 a{
     text-decoration: none;
+    color: var(--main-color);
 }
 
 .nav-header{
@@ -196,10 +197,6 @@ footer{
     justify-content: center;
 }
 
-.footer-text{
-    
-}
-
 /********************DIVISION********************/
 
 .titulowho{
@@ -263,18 +260,3 @@ footer{
 
 
 
-.parrafowho{
-    display: flex;
-    justify-self: center;
-    align-items: center;
-    margin: 2rem;
-    padding: 8rem;
-    font-size: 2rem;
-}
-
-.Parrafos{
-    margin: 2rem;
-    padding: 6rem;
-    font-size: 2rem;
-    font-display: center;
-}
