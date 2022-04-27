@@ -1,6 +1,6 @@
 Hi there 👋
 
-<h3 align="center">Hey there, I'm Miyoshi</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
+<h3 align="center">Polyshop</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
 <a href="#"><img src=("https://i.postimg.cc/RCpTvSLG/Arch-Linux-Series-By-Zatiel.png") height="100%" width="100%" /></a>
 </p>
@@ -20,7 +20,7 @@ web developer, I love the linux terminal, because it, I develop cli applications
 
 
 ### Most used languages
-![Miyoshi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmezatiel&theme=react&layout=compact&hide=HTML)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmezatiel&theme=react&layout=compact&hide=HTML)
 
 ### Interests
 
